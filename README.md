@@ -1,2 +1,2 @@
 # git-class
-Introduction to github
+Introduction to github by Sushant Oberoi
